@@ -8,6 +8,8 @@
 // regenerated.
 // </auto-generated>
 
+// This is a dummy commit
+
 namespace Microsoft.Azure.Management.DataBox
 {
     using Microsoft.Rest;
