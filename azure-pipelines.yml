@@ -4,3 +4,6 @@ trigger:
 
 pool:
   vmImage: 'VS2017-Win2016'
+
+steps:
+  - script: msbuild build.proj
