@@ -7,8 +7,7 @@ pool:
 steps:
   - task: CmdLine@1
     inputs:
-      filename: dir.exe
-      arguments: "C:\\Program Files\\Microsoft SDKs\\Windows"
+      filename: dir
   - task: MSBuild@1
     inputs:
       solution: build.proj
