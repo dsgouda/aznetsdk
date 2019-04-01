@@ -15,4 +15,4 @@ steps:
   - task: MSBuild@1
     inputs:
       solution: build.proj
-      msbuildArguments: /p:Scope=SdkCommon /t:build
+      msbuildArguments: /p:Scope=SDKs\Compute /t:RunTests
