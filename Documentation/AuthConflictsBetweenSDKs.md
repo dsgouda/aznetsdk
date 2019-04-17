@@ -46,3 +46,5 @@ Another solution would be to use the version of resource manager library that is
 
 ## test section for github tests
 test change1
+tc2
+tc3
