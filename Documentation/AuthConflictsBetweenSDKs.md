@@ -45,3 +45,4 @@ Another solution would be to use the version of resource manager library that is
 * New SDKs - The SDKs that depend on Microsoft.Rest.ClientRuntime.Azure
 
 ## test section for github tests
+test change1
